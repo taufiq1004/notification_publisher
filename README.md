@@ -93,12 +93,6 @@ go mod vendor
 ```sh
 go run main.go
 ```
-Menjalankan beberapa consumer:
-```sh
-go run cmd/consumer/email/main.go
-go run cmd/consumer/sms/main.go
-go run cmd/consumer/fcm/main.go
-```
 
 ## 5. Menguji Aplikasi
 

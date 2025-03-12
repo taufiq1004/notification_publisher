@@ -1,4 +1,4 @@
-# RabbitMQ Pub-Sub dengan Golang dan Echo
+# RabbitMQ Sample Pub-Sub dengan Golang dan Echo
 
 ## 1. Install RabbitMQ
 

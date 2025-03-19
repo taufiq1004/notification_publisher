@@ -7,7 +7,7 @@ import (
 )
 
 type Config struct {
-	Port         string `envconfig:"PORT" default:"8080"`
+	Port         string `envconfig:"PORT" default:"8081"`
 	RabbitMQURL  string `envconfig:"RABBITMQ_URL" default:"amqp://guest:guest@localhost:5672/"`
 	ExchangeName string `envconfig:"EXCHANGE_NAME" default:"notifications"`
 }
